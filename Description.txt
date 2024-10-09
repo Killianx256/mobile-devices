@@ -1,0 +1,12 @@
+// Wayto //
+
+Application specialisé dans les recommandations touristiques urbaines
+
+MVP :
+
+- Acces : Localisation
+- *** Login *** Pas obligatoire
+- Home interface : Map
+- Front : Fonction de recherche / *** Historique de navigation *** / *** Favoris ***
+- Backlog : Calcul itinéraire , affichage sur map
+
