@@ -6,7 +6,14 @@ MVP :
 
 - Acces : Localisation
 - *** Login *** Pas obligatoire
+- First Step : QUIZZ de personnalité
+                    - Age
+                    - Centres d'interets (  Vie de nuit / culturelle / gastronomie )
+                    - Situation ( Solo / En couple / en Famille )
+                    - Budget ( Petit / Moyen / Grand )
+
 - Home interface : Map
 - Front : Fonction de recherche / *** Historique de navigation *** / *** Favoris ***
 - Backlog : Calcul itinéraire , affichage sur map
+
 
