@@ -25,4 +25,5 @@ Idées :
 - Sauvegarder l'itinéraire
 - Fonction de recherche
 - Historique de navigation
-- Favoris
+- Favoris (dans quel cadre ? Killian)
+- ChatBot (OpenAI ???) -> à voir l'utilité dans le projet. 
