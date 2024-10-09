@@ -2,19 +2,27 @@
 
 Application specialisé dans les recommandations touristiques urbaines
 
-MVP :
+### Minimum Viable Product ###
 
 - Acces : Localisation
 - ( Login )
-- First Step : QUIZZ de personnalité
+- Step 1 : QUIZZ de personnalité
                     - Age
                     - Centres d'interets (  Vie de nuit / culturelle / gastronomie )
                     - Situation ( Solo / En couple / en Famille )
                     - Budget ( Petit / Moyen / Grand )
 
-- Second step : transformer des données (femme, 21, solo, moyen) en un itinéraire (une tableau de coordonnées) grâce à un modèle IA (API)
-- Home interface : Map
-- Front : Fonction de recherche / *** Historique de navigation *** / *** Favoris ***
-- Backlog : Calcul itinéraire , affichage sur map
+- Step 2 : Transformer des données (femme, 21, solo, moyen) en DEUX itinéraire (deux tableaux de coordonnées) grâce à un modèle IA (API)
 
+- Step 3 : Choix de l'itinéraire grâce à la liste des lieux (bouton DEPART pour commencer l'itinéraire)
 
+- Step 3 : Afficher l'itinéraire sur une carte (Google Directions API et Google Maps Android API)
+
+################################################################################################################
+
+Idées :
+
+- Sauvegarder l'itinéraire
+- Fonction de recherche
+- Historique de navigation
+- Favoris
